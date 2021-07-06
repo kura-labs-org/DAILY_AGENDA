@@ -1,6 +1,6 @@
 # DAILY_AGENDA
 
-# Welcome to Kura Labs Daily Agenda REPO. To view the agenda, select the branch named after the date of techincal instruction. Daily agenda will be posted the night before technical instruction. See you in class!!
+# Welcome to Kura Labs Daily Agenda REPO. To view the agenda, select the branch named after the date of technical instruction. Daily agenda will be posted the night before technical instruction. See you in class!!
 
 Description:See the zoom link below:
 
