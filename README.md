@@ -7,3 +7,6 @@
 Below is the link to the class zoom:
 
 https://us06web.zoom.us/j/83752173782?pwd=dnZ0Vk9pVmtJOVJ5eXJGejN4RTdjZz09
+
+
+Edit done by Andrew Dass. Only sentence I wrote. 
